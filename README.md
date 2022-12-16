@@ -9,7 +9,7 @@ See conference paper: ANONYMIZED
 This component transcribes Modelica packages to knowledge graphs. It was developed as a Java tool and is delivered as a *.jar.
 
 ### How to use it
-* download the executable *.jar from XXX
+* download the executable *.jar from [releases/download/v0.9.0/MoTTL-Transcriptor-0.9-SNAPSHOT-jar-with-dependencies.jar]
 * it contains all dependencies and can be run out of the box
 * it can be executed on a JVM version 11 (or higher)
 * run the following command to generate a turtle file representing some Modelica package (adapt the paths to your files)
